@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2023-03-11)
+
+
+### Features
+
+* cgwalters ([b9d9560](https://github.com/graybush/testFromContainer/commit/b9d9560e841dbf1d8dee86096d079330ee22a9e8))
+* fedora-ostree-desktops ([32f2e52](https://github.com/graybush/testFromContainer/commit/32f2e52a822c45083349222b554bda15a8c67e46))
+
 ## [1.1.0](https://github.com/ublue-os/base/compare/v1.0.0...v1.1.0) (2023-03-03)
 
 
